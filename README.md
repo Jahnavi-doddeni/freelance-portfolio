@@ -23,7 +23,9 @@ Professional experience setting up Backstage environments and customizing plugin
 
 ### 2. Backstage AI Assistant
 
-A portfolio project exploring how to connect a Backstage Developer Portal with a custom backend plugin to retrieve Software Catalog information.
+A custom Backstage backend plugin that retrieves Software Catalog information using the Catalog Service.
+
+[View Project Case Study](projects/backstage-ai-assistant.md)
 
 ### 3. React & API Integration Project — Coming Soon
 
