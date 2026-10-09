@@ -25,9 +25,9 @@ Professional experience setting up Backstage environments and customizing plugin
 
 A portfolio project exploring how to connect a Backstage Developer Portal with a custom backend plugin to retrieve Software Catalog information.
 
-### 3. React & API Integration Projects
+### 3. React & API Integration Project — Coming Soon
 
-Portfolio work focused on building reusable React components, connecting APIs, handling responses, and presenting data in a clear user interface.
+Planning a project focused on reusable React components, REST API integration, error handling, and presenting data in a clean user interface.
 
 ## What I Can Help With
 
